@@ -1,9 +1,7 @@
+import Navbar from "./Navbar";
+
 function App() {
-  return (
-    <div>
-      <h1>TrendLab</h1>
-    </div>
-  );
+  return <Navbar></Navbar>;
 }
 
 export default App;
